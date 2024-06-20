@@ -1,0 +1,20 @@
+name: Trigger Website Build
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  trigger-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger website build
+        env:
+          GITHUB_TOKEN: ${{ secrets.REPO_ACCESS_TOKEN }}
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github.v3+json" \
+            -H "Authorization: token $GITHUB_TOKEN" \
+            https://api.github.com/repos/West-Tennessee-Consulting/website/dispatches \
+            -d '{"event_type":"trigger-build"}'
