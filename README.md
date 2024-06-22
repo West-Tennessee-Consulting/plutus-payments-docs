@@ -58,6 +58,7 @@ To add new documentation:
 
 For any questions or issues, please open an issue in this repository or contact the repository maintainers.
 
----
+## License
 
-This README.md provides an overview of the `plutus-payments-docs` repository, its structure, and how to contribute to the documentation. By following these guidelines, you can ensure that the documentation remains organized and up-to-date.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
