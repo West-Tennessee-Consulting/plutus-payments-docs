@@ -7,14 +7,6 @@ keywords: 'WestTNConsulting,wtc,memphis,tennessee,plutus,payments,monday.com,mon
 # Collection Methods
 
 
-To edit payment methods in Stripe:
-
-1. Click on 'Billing'.
-2. Select 'Settings'.
-3. Navigate to 'Invoice Template'.
-4. Choose 'Payment Methods'.
-5. Click on 'Manage'.
-
 For more documentation about configuring your payments on Stripe, please click [here](https://stripe.com/docs/invoicing/customize).
 
 ## Supported Collection Methods
