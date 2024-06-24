@@ -25,7 +25,6 @@ Customers may choose from the following:
 - SOFORT 
 
 
-*Provide details here about the supported collection methods.*
 
 ## Editing Collection Methods
 
@@ -42,6 +41,4 @@ To edit payment methods in Stripe:
 
 For more documentation about configuring your payments on Stripe, please click [here](https://stripe.com/docs/invoicing/customize).
 
-
-*Add instructions on how to edit collection methods specifically for Stripe.*
 
