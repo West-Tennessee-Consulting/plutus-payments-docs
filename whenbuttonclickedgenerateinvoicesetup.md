@@ -16,7 +16,7 @@ We recommend using a board layout that divides invoices into three groups: Upcom
 
 We will demonstrate an integration that generates an invoice on Stripe.com. This integration is a critical step in the Plutus Payments application. After entering the necessary fields in the "Upcoming" monday.com board, users can generate an invoice by clicking the "Click Me" button.
 
-![image](../img/plutus/1.png)
+![image](/img/1.png)
 
 ### Fill Out Necessary Fields for Testing
 
