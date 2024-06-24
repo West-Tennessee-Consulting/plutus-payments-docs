@@ -16,7 +16,7 @@ In the "Upcoming" group:
 - Hover to the right of every column label.
 - Select the three dots, then choose "ColumnID" to copy.
 
-![ColumnID Copying](../img/plutus/when_buton_clicked_mapped/52.png)
+![ColumnID Copying](/img/when_buton_clicked_mapped/52.png)
 
 In a note, paste the ColumnIDs for the following columns:
 - Name (format: "FirstNameColumnID"SPLIT"LastNameColumnID")
@@ -55,7 +55,7 @@ These will be used later in the "Filling out the Remaining Fields" step.
 
 Paste the mapped ColumnIDs from your note into the "Invoice" settings.
 
-![Filling Field Values](../img/plutus/when_buton_clicked_mapped/58.png)
+![Filling Field Values](/img/when_buton_clicked_mapped/58.png)
 
 Click "Done" and then "Add to Board".
 
@@ -65,7 +65,7 @@ Click "Done" and then "Add to Board".
 
 To test the integration, select "Click Me" under the "Generate WTC Invoice" column in the "Upcoming" group.
 
-![Testing Integration](../img/plutus/when_buton_clicked_mapped/61.png)
+![Testing Integration](/img/when_buton_clicked_mapped/61.png)
 
 After clicking, an invoice will be generated, and a corresponding invoice link will appear in the group.
 
