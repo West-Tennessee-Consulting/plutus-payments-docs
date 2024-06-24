@@ -66,7 +66,7 @@ Invoices in the "Upcoming" group can be marked as done, working on it, or stuck.
 In this example, we are going to test "Invoice 4" located in the "Upcoming" group.
 
 ![Test Invoice Fields](/img/when_buton_clicked_mapped/53.png)
-![Test Invoice Fields](/img/plutus/when_buton_clicked_mapped/54.png)
-![Test Invoice Fields](/img/plutus/when_buton_clicked_mapped/55.png)
+![Test Invoice Fields](/img/when_buton_clicked_mapped/54.png)
+![Test Invoice Fields](/img/when_buton_clicked_mapped/55.png)
 
 Please follow the steps outlined in the documentation to set up and test each integration.
