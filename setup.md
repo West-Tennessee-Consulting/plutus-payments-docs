@@ -24,17 +24,17 @@ We recommend this board layout which simply divides invoices into three differen
 
 We will demonstrate an integration that generates an invoice on Stripe.com. This is a critical step of the Plutus Payments application. When successfully integrated, after the desired fields are entered in the "Upcoming" monday.com board, a user can select the "Click Me" button to generate an invoice.
 
-![Plutus Payments Demo](/img/plutus/1.png)
+![Plutus Payments Demo](/img/1.png)
 
 ### Fill Out Necessary Fields to Test the Integration
 
 To test our integration, please fill out a test invoice in the "Upcoming" board. In this example, we used the following information:
 
-![Test Invoice Fields](/img/plutus/monday_sample_invoice_in_board/invoice_16.png)
-![Test Invoice Fields](/img/plutus/monday_sample_invoice_in_board/invoice_17.png)
-![Test Invoice Fields](/img/plutus/monday_sample_invoice_in_board/invoice_18.png)
-![Test Invoice Fields](/img/plutus/monday_sample_invoice_in_board/invoice_19.png)
-![Test Invoice Fields](/img/plutus/monday_sample_invoice_in_board/invoice_20.png)
+![Test Invoice Fields](/img/monday_sample_invoice_in_board/invoice_16.png)
+![Test Invoice Fields](/img/monday_sample_invoice_in_board/invoice_17.png)
+![Test Invoice Fields](/img/monday_sample_invoice_in_board/invoice_18.png)
+![Test Invoice Fields](/img/monday_sample_invoice_in_board/invoice_19.png)
+![Test Invoice Fields](/img/monday_sample_invoice_in_board/invoice_20.png)
 
 ### Adding the Integration
 
@@ -52,10 +52,10 @@ Now that the integration has been added, let's select "Click Me" and generate an
 
 To test the integration, input the following as a test invoice and change the status from "Upcoming" to "Invoice Pending Payment" in the "Upcoming" group.
 
-![Test Invoice Fields](/img/plutus/when_item_is_moved_to_group/Invoice%202%20Screenshot%2025.png)
-![Test Invoice Fields](/img/plutus/when_item_is_moved_to_group/Invoice%202%20Screenshot%2026.png)
-![Test Invoice Fields](/img/plutus/when_item_is_moved_to_group/Invoice%202%20Screenshot%2027.png)
-![Test Invoice Fields](/img/plutus/when_item_is_moved_to_group/Invoice%202%20Screen%20Shot%2028.png)
+![Test Invoice Fields](/img/when_item_is_moved_to_group/Invoice%202%20Screenshot%2025.png)
+![Test Invoice Fields](/img/when_item_is_moved_to_group/Invoice%202%20Screenshot%2026.png)
+![Test Invoice Fields](/img/when_item_is_moved_to_group/Invoice%202%20Screenshot%2027.png)
+![Test Invoice Fields](/img/when_item_is_moved_to_group/Invoice%202%20Screen%20Shot%2028.png)
 
 ## Add Integration When Invoice Column Changes to Done
 
@@ -65,7 +65,7 @@ Invoices in the "Upcoming" group can be marked as done, working on it, or stuck.
 
 In this example, we are going to test "Invoice 4" located in the "Upcoming" group.
 
-![Test Invoice Fields](/img/plutus/when_buton_clicked_mapped/53.png)
+![Test Invoice Fields](/img/when_buton_clicked_mapped/53.png)
 ![Test Invoice Fields](/img/plutus/when_buton_clicked_mapped/54.png)
 ![Test Invoice Fields](/img/plutus/when_buton_clicked_mapped/55.png)
 
