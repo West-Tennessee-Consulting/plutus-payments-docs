@@ -8,7 +8,7 @@ keywords: 'Stripe, integration, invoice generator, monday.com, board integration
 
 To test the integration, please input the following as a test invoice:
 
-![Invoice Screenshot 1](../img/plutus/when_item_is_moved_to_group/Invoice%202%20Screenshot%2025.png)
+![Invoice Screenshot 1](/img/when_item_is_moved_to_group/Invoice%202%20Screenshot%2025.png)
 ![Invoice Screenshot 2](../img/plutus/when_item_is_moved_to_group/Invoice%202%20Screenshot%2026.png)
 ![Invoice Screenshot 3](../img/plutus/when_item_is_moved_to_group/Invoice%202%20Screenshot%2027.png)
 ![Invoice Screenshot 4](../img/plutus/when_item_is_moved_to_group/Invoice%202%20Screen%20Shot%2028.png)
