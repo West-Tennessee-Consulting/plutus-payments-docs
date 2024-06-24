@@ -119,4 +119,3 @@ After the secret key is entered please fill out the remaining fields from Test I
 
 ![image](/img/when_status_changes_generate_an_invoice/When%20status%20changes%20screen%20shot%2040.png)
 
-![image](/img/when_status_changes_generate_an_invoice/When%20.png)
