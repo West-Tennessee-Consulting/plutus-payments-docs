@@ -22,8 +22,8 @@ We will demonstrate an integration that generates an invoice on Stripe.com. This
 
 To test the integration, fill out a test invoice in the "Upcoming" board with the following information:
 
-![image](../img/plutus/monday_sample_invoice_in_board/invoice_16.png)
-![image](../img/plutus/monday_sample_invoice_in_board/invoice_17.png)
+![image](/img/monday_sample_invoice_in_board/invoice_16.png)
+![image](/img/plutus/monday_sample_invoice_in_board/invoice_17.png)
 ![image](../img/plutus/monday_sample_invoice_in_board/invoice_18.png)
 ![image](../img/plutus/monday_sample_invoice_in_board/invoice_19.png)
 ![image](../img/plutus/monday_sample_invoice_in_board/invoice_20.png)
