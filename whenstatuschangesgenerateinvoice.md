@@ -51,11 +51,11 @@ On the top right select "+Add new integration".
 
 This will open the Integrations Center.
  
-![image](../img/plutus/6.png)
+![image](/img/6.png)
 
 Under the Category "Explore by App" type Stripe.
 
-![image](../img/plutus/7.png)  
+![image](/img/7.png)  
 
 Please Select the Stripe Invoice Feature. 
 
@@ -65,23 +65,23 @@ We want to select the feature called "When status changes to something call the 
 
 [**Click to watch video about opening Stripe integration feature list**](https://www.youtube.com/watch?v=BUdPK-t4VWM)
  
-![image](../img/plutus/when_status_changes_generate_an_invoice/When%20status%20changes%20screen%20shot%2035.png)
+![image](/img/when_status_changes_generate_an_invoice/When%20status%20changes%20screen%20shot%2035.png)
 
 We will edit invoice, something, and status. 
 
-![image](../img/plutus/when_status_changes_generate_an_invoice/When%20status%20changes%20screen%20shot%2036.png)
+![image](/img/when_status_changes_generate_an_invoice/When%20status%20changes%20screen%20shot%2036.png)
  
 Open "status" and then select invoice. 
 
-![image](../img/plutus/when_status_changes_generate_an_invoice/When%20status%20changes%20screen%20shot%2037.png)
+![image](/img/when_status_changes_generate_an_invoice/When%20status%20changes%20screen%20shot%2037.png)
 
 Open "something" and then select done.
 
-![image](../img/plutus/when_status_changes_generate_an_invoice/When%20status%20changes%20screen%20shot%2038.png)
+![image](/img/when_status_changes_generate_an_invoice/When%20status%20changes%20screen%20shot%2038.png)
 
 Open "Invoice".
 
-![image](../img/plutus/when_status_changes_generate_an_invoice/When%20status%20changes%20screen%20shot%2039.png)
+![image](/img/when_status_changes_generate_an_invoice/When%20status%20changes%20screen%20shot%2039.png)
 
 [**Click to watch video about editing Stripe Invoice Generator**](https://www.youtube.com/watch?v=h2pejE2hk4g)
 
@@ -95,11 +95,11 @@ Open the Stripe dashboard from the link below.
 
 [Link](https://dashboard.stripe.com/dashboard) 
 
-![image](../img/plutus/11.png)
+![image](/img/11.png)
 
 Toggle Stripe into test mode using the switch located on the top right. 
 
-![image](../img/plutus/12.png)
+![image](/img/12.png)
 
 Next to test mode select developers. 
 Under "Standard Keys" select "Reveal test key".
@@ -109,7 +109,7 @@ The test key will start with "sk_test_...".
 Please note that we are using a secret key in test mode to test an invoice. 
 Later we will have to close test mode and then copy the actual secret key into our recipe. 
 
-![image](../img/plutus/13.png) 
+![image](/img/13.png) 
 
 [**Click to watch video about copying Stripe secret key**](https://www.youtube.com/watch?v=roijLB8hf78)
 
@@ -117,6 +117,6 @@ Later we will have to close test mode and then copy the actual secret key into o
 
 After the secret key is entered please fill out the remaining fields from Test Invoice 3. 
 
-![image](../img/plutus/when_status_changes_generate_an_invoice/When%20status%20changes%20screen%20shot%2040.png)
+![image](/img/when_status_changes_generate_an_invoice/When%20status%20changes%20screen%20shot%2040.png)
 
-![image](../img/plutus/when_status_changes_generate_an_invoice/When%20
+![image](/img/when_status_changes_generate_an_invoice/When%20.png)
