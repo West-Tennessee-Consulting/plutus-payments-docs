@@ -6,6 +6,19 @@ keywords: 'WestTNConsulting,wtc,memphis,tennessee,plutus,payments,monday.com,mon
 
 # Collection Methods
 
+
+To edit payment methods in Stripe:
+
+1. Click on 'Billing'.
+2. Select 'Settings'.
+3. Navigate to 'Invoice Template'.
+4. Choose 'Payment Methods'.
+5. Click on 'Manage'.
+
+For more documentation about configuring your payments on Stripe, please click [here](https://stripe.com/docs/invoicing/customize).
+
+## Supported Collection Methods
+
 Plutus Payments supports a diverse variety of payment methods used by the Stripe Provider.
 
 Customers may choose from the following: 
@@ -22,6 +35,11 @@ Customers may choose from the following:
 - SEPA Direct Debit 
 - SOFORT 
 
+
+*Provide details here about the supported collection methods.*
+
+## Editing Collection Methods
+
 To edit payment methods in Stripe:
 
 1. Click on 'Billing'.
@@ -30,15 +48,11 @@ To edit payment methods in Stripe:
 4. Choose 'Payment Methods'.
 5. Click on 'Manage'.
 
-For more documentation about configuring your payments on Stripe, please click [here](https://stripe.com/docs/invoicing/customize).
-
-## Supported Collection Methods
-
-*Provide details here about the supported collection methods.*
-
-## Editing Collection Methods
 
 ### Stripe
+
+For more documentation about configuring your payments on Stripe, please click [here](https://stripe.com/docs/invoicing/customize).
+
 
 *Add instructions on how to edit collection methods specifically for Stripe.*
 
