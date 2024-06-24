@@ -39,3 +39,5 @@ Note: If the payer's currency differs from the charge currency, credit card comp
 For more information, please click [here](https://stripe.com/docs/currencies).
 
 ### Setting One-Off Invoice Currency 
+
+For more information about setting a default currency for one-off invoices, please click [here](https://support.stripe.com/questions/setting-a-customers-default-currency)
