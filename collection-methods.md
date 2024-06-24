@@ -6,9 +6,6 @@ keywords: 'WestTNConsulting,wtc,memphis,tennessee,plutus,payments,monday.com,mon
 
 # Collection Methods
 
-
-For more documentation about configuring your payments on Stripe, please click [here](https://stripe.com/docs/invoicing/customize).
-
 ## Supported Collection Methods
 
 Plutus Payments supports a diverse variety of payment methods used by the Stripe Provider.
