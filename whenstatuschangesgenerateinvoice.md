@@ -20,7 +20,7 @@ In this example we have a test invoice in the "Upcoming" group labelled "Test In
 
 ![image](/img/when_status_changes_generate_an_invoice/When%20Status%20Changes%20Screen%20shot%2033.png)
 
-![image](/img//when_status_changes_generate_an_invoice/When%20status%20changes%20screen%20shot%2034.png)
+![image](/img/when_status_changes_generate_an_invoice/When%20status%20changes%20screen%20shot%2034.png)
 
 
 Using the example above, we are going to show how to add a recipe which grants the creation of an invoice.
