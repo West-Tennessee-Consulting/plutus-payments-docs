@@ -11,6 +11,7 @@ keywords: 'WestTNConsulting,wtc,memphis,tennessee,plutus,payments,monday.com,mon
 Plutus Payments supports a diverse variety of payment methods used by the Stripe Provider.
 
 Customers may choose from the following: 
+
 - ACH Credit
 - Canadian pre-authorized debit (PADs)
 - Bancontact
