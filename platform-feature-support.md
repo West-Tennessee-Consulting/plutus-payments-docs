@@ -14,13 +14,14 @@ The following tables list available features and payment methods for Stripe, whi
 
 ### Invoice Features For Stripe.com and Plutus Payments 
 
+
 | Feature                  | Stripe | Plutus Payments |
 |--------------------------|--------|-----------------|
 | Product Details          | Yes    | Yes             |
 | Customer Information     | Yes    | Yes             |
-| Tax Rates                | Yes    | No              |  In development. 
+| Tax Rates                | Yes    | No              |   
 | Memo                     | Yes    | Yes             |  
-| Custom Invoice Numbering | Yes    | Yes             |  Customize with Stripe Invoice Template. 
+| Custom Invoice Numbering | Yes    | Yes             |  
 | Discounts or Coupons     | Yes    | Yes             |  
 | Line Items               | Yes    | Yes             |
 | Footer                   | Yes    | Yes             |
