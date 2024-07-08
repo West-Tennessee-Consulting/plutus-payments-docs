@@ -25,22 +25,26 @@ The [website repository](https://github.com/West-Tennessee-Consulting/website) u
 To add new documentation:
 
 1. **Create Markdown Files:**
+   
    - Add your new markdown files to the repository.
    - Ensure that any images used are placed in the `img` folder and referenced correctly.
 
-2. **Update `index.md`:**
+3. **Update `index.md`:**
+   
    - This file acts as the navigation bar on the left side of the documentation website.
    - You can add direct links or nested menus for your new markdown files.
 
 ### Example
 
 - **Nested Menu:**
+  
   ```markdown
   ## Customization
   [**View More About Customization**](/plutus-payments/docs/customization)
   ```
 
 - **Direct Link:**
+  
   ```markdown
   ## [**Direct Link**](/plutus-payments/docs/setup)
   ```
