@@ -5,6 +5,7 @@
 [**View More About Collection Methods**](/plutus-payments/docs/collection-methods)
 
 ## Video Demos
+
 - [**When Button Clicked Generate Invoice**](/plutus-payments/docs/whenbuttonclickedgenerateinvoicesetup)
 - [**When Item Moved Generate Invoice**](/plutus-payments/docs/whenitemmovesgenerateinvoicesetupvideos)
 - [**When Status Changes Generate Invoice**](/plutus-payments/docs/whenstatuschangessendinvoicesetupvideos)
@@ -26,6 +27,7 @@
 [**View More About Platform Feature Support**](/plutus-payments/docs/platform-feature-support)
 
 ## Setup
+
 - [**When Button Clicked Generate Invoice**](/plutus-payments/docs/whenbuttonclickedgenerateinvoicesetup)
 - [**When Item Moved Generate Invoice**](/plutus-payments/docs/whenitemmovedgenerateinvoice)
 - [**When Status Changes Generate Invoice**](/plutus-payments/docs/whenstatuschangesgenerateinvoice)
