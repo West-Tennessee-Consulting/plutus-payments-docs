@@ -11,6 +11,7 @@ In this page, we will discuss the steps required to successfully integrate sever
 ## Plutus Payments Demo Board Layout 
 
 The board in this demo contains three groups:
+
 1. **Upcoming:** Lists all upcoming invoices your firm wishes to charge.
 2. **Pending Payment:** Lists all invoices that have been created and are waiting payment.
 3. **Done:** Lists all invoices that have been paid successfully.
@@ -18,6 +19,7 @@ The board in this demo contains three groups:
 ### The Following Setup Guides demonstrate how to add and test key Plutus Payment Integrations between monday.com and Stripe
 
 We recommend this board layout which simply divides invoices into three different groups:
+
 - **Upcoming:** For invoices that have yet to be sent.
 - **Pending:** For sent invoices awaiting payment.
 - **Completed:** For invoices that have been paid.
