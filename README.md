@@ -29,7 +29,7 @@ To add new documentation:
    - Add your new markdown files to the repository.
    - Ensure that any images used are placed in the `img` folder and referenced correctly.
 
-3. **Update `index.md`:**
+2. **Update `index.md`:**
    
    - This file acts as the navigation bar on the left side of the documentation website.
    - You can add direct links or nested menus for your new markdown files.
