@@ -17,6 +17,6 @@ keywords: 'WestTNConsulting, wtc, memphis, tennessee, plutus, payments, monday.c
 
 </div>
 
-If you have any questions please email us at plutuspaymentsupport@westtn.consulting.
+If you have any questions please email us at <plutuspaymentsupport@westtn.consulting>
 
 [plutuspaymentssupport@westtn.consulting](mailto:plutuspaymentsupport@westtn.consulting)
