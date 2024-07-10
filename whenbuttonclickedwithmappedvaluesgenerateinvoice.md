@@ -13,12 +13,14 @@ This guide demonstrates how to set up a recipe to generate an invoice when a but
 ## Step 1: Copying ColumnID Values for Later Integration
 
 In the "Upcoming" group:
+
 - Hover to the right of every column label.
 - Select the three dots, then choose "ColumnID" to copy.
 
 ![ColumnID Copying](/img/when_buton_clicked_mapped/52.png)
 
 In a note, paste the ColumnIDs for the following columns:
+
 - Name (format: "FirstNameColumnID"SPLIT"LastNameColumnID")
 - Address
 - Phone
