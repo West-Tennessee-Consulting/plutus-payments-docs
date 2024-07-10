@@ -27,7 +27,7 @@ Using the example above, we are going to show how to add a recipe which grants t
 
 We will provide screenshots and video clips along the way to help guide you to make your first test invoice.
 
-### Adding the Integration
+## Adding the Integration
 
 Next select the three dots menu on the top right of the board. 
 This will show a list of board permissions, settings, and notifications. 
