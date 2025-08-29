@@ -40,6 +40,6 @@ To edit payment methods in Stripe:
 
 ### Stripe
 
-For more documentation about configuring your payments on Stripe, please click [here](https://stripe.com/docs/invoicing/customize).
+For more documentation about configuring your payments on Stripe, please visit the [Stripe Invoicing Customization Guide](https://stripe.com/docs/invoicing/customize).
 
 

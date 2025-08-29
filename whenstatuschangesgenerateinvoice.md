@@ -93,7 +93,7 @@ To copy the secret key.
 
 Open the Stripe dashboard from the link below. 
 
-[Link](https://dashboard.stripe.com/dashboard) 
+[Stripe Dashboard](https://dashboard.stripe.com/dashboard) 
 
 ![image](/img/11.png)
 

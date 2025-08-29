@@ -36,8 +36,8 @@ For information about setting or changing currencies, please follow the link bel
 
 Note: If the payer's currency differs from the charge currency, credit card companies may charge added exchange fees to customers. 
 
-For more information, please click [here](https://stripe.com/docs/currencies).
+For more information, please visit the [Stripe Currencies Documentation](https://stripe.com/docs/currencies).
 
 ### Setting One-Off Invoice Currency 
 
-For more information about setting a default currency for one-off invoices, please click [here](https://support.stripe.com/questions/setting-a-customers-default-currency)
+For more information about setting a default currency for one-off invoices, please visit the [Stripe Support Guide on Setting Customer Default Currency](https://support.stripe.com/questions/setting-a-customers-default-currency)
